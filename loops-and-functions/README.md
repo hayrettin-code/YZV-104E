@@ -19,10 +19,10 @@ These programs demonstrate the ability to decompose complex problems into reusab
 * `diamond_pattern.c`: Draws complex diamond shapes using specialized pyramid-building functions.
 * `fibonacci_series.c`: Computes and prints the Fibonacci sequence using recursive function logic.
 * `recursive_power.c`: Performs exponential calculations using a recursive algorithm.
-* `armstrong.c`: Calculates and displays Armstrong numbers up to a given limit using nested loops and digit-extraction logic[cite: 20].
-* `prime.c`: Evaluates prime numbers, computes the nth prime, and identifies the index of a given prime using boolean logic and loops[cite: 26].
-* `dice.c`: Simulates dual-dice rolls using random number generation, computes statistical frequency distributions and percentages, and renders an ASCII histogram[cite: 28].
-* `date_diff.c`: Calculates the exact number of days between two given dates, featuring leap year detection and modular date-to-total-day conversion logic[cite: 23].
+* `armstrong.c`: Calculates and displays Armstrong numbers up to a given limit using nested loops and digit-extraction logic.
+* `prime.c`: Evaluates prime numbers, computes the nth prime, and identifies the index of a given prime using boolean logic and loops.
+* `dice.c`: Simulates dual-dice rolls using random number generation, computes statistical frequency distributions and percentages, and renders an ASCII histogram.
+* `date_diff.c`: Calculates the exact number of days between two given dates, featuring leap year detection and modular date-to-total-day conversion logic.
 ## 🛠️ Technologies Used
 * **Language:** C (ISO/IEC 9899 standard)
 * **Compiler:** GCC (GNU Compiler Collection)

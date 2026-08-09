@@ -12,9 +12,9 @@ These programs cover essential array operations, including data entry management
 * **Algorithmic Reorganization:** Implementing efficient data traversal and sorting-style swap logic.
 
 ## 📂 Included Programs
-* `array_min.c`: Initializes an array with user-provided numbers and performs a search operation to identify the minimum element[cite: 21].
-* `grade_statistics.c`: Performs comprehensive statistical analysis on student grades, calculating mean, variance, standard deviation, and absolute deviation[cite: 22].
-* `array_shuffle_reverse.c`: Demonstrates advanced array manipulation, including random shuffling via Fisher-Yates inspired logic and in-place reversal using pointer-based swaps[cite: 30].
+* `array_min.c`: Initializes an array with user-provided numbers and performs a search operation to identify the minimum element.
+* `grade_statistics.c`: Performs comprehensive statistical analysis on student grades, calculating mean, variance, standard deviation, and absolute deviation.
+* `array_shuffle_reverse.c`: Demonstrates advanced array manipulation, including random shuffling via Fisher-Yates inspired logic and in-place reversal using pointer-based swaps.
 
 ## 🛠️ Technologies Used
 * **Language:** C (ISO/IEC 9899 standard)

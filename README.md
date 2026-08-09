@@ -21,4 +21,4 @@ Throughout these projects, I have developed expertise in:
 * **System Design:** Implementing modular, structured (`struct`), and file-persistent application patterns.
 
 ---
-*Created by [Hayrettin Yazıcı](https://github.com/hayrettin-code)[cite: 1] | 2025-2026 Spring Term*
+*Created by [Hayrettin Yazıcı](https://github.com/hayrettin-code) | 2025-2026 Spring Term*
